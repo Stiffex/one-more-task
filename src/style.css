@@ -1,0 +1,23 @@
+.items {
+    display: flex;
+    outline: 2px solid black;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.title {
+    width: 150px;
+}
+
+.btn {
+    background-color: transparent;
+    border: none;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;;
+    padding-bottom: 125px;
+}
